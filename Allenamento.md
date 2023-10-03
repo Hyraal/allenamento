@@ -1,8 +1,7 @@
 #Allenamento
 -
-## Ottobre
+## Ottobre Struttura lez
 
-Struttura lez
 - Riscaldamento mobilità
 - jibengong + tecnica
 - mobilità + stretch
