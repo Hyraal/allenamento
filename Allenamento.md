@@ -2,7 +2,7 @@
 -
 ## Ottobre
 
-Struttura leg
+Struttura lez
 - Riscaldamento mobilità
 - jibengong + tecnica
 - mobilità + stretch
