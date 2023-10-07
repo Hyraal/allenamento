@@ -2,14 +2,13 @@
 
 ### Tabella Contenuti - Macrocicli
 1. [I Ciclo (Ott-Dic)](#i-ciclo) - Mobility & Stretch
-4. [II Ciclo (Gen-Mar)](#ii-ciclo) - Power
-5. [III Ciclo (Apr-Giu](#iii-ciclo) - Special Conditioning 4 Wushu
-6. [IV Ciclo (Lug-Set)](#iv-ciclo) - Deload & Fun
+2. [II Ciclo (Gen-Mar)](#ii-ciclo) - Power
+3. [III Ciclo (Apr-Giu)](#iii-ciclo) - Special Conditioning 4 Wushu
+4. [IV Ciclo (Lug-Set)](#iv-ciclo) - Deload & Fun
 
 ## I Ciclo
 
-Questo ciclo e' dedicato alla mobilita' e allungamento. E' un investimento sul medio-lungo termine, 
-la mobilita' e ROM raggiunte alla fine di questo macrociclo saranno la base per i successivi lavori - da quelli generali a quelli specifici.
+Questo ciclo e' dedicato alla mobilita' e allungamento. E' un investimento sul medio-lungo termine, la mobilita' e ROM raggiunte alla fine di questo macrociclo saranno la base per i successivi lavori - da quelli generali a quelli specifici.
 
 #### Struttura lezione (90min)
 
@@ -33,8 +32,7 @@ Es mobilità - pulsati
 
 ## II Ciclo
 
-Questo ciclo e' dedicato al potenziamento (generale). La massa e forza guadagnata da questo ciclo, insieme al ROM raggiunto nel precedente, 
-dovrebbe servire come utile base per l'obiettivo specifico (Wushu).
+Questo ciclo e' dedicato al potenziamento (generale). La massa e forza guadagnata da questo ciclo, insieme al ROM raggiunto nel precedente, dovrebbe servire come utile base per l'obiettivo specifico (Wushu).
 
 #### Struttura lezione
 
@@ -50,3 +48,4 @@ Es power
 - Core ???
 - Vert ???
 - Pliometria ???
+
